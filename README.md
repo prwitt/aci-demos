@@ -31,7 +31,7 @@ $ kubectl get nodes
 
 clone this repo
 ```
-$ git clone https://github.com/rbitia/aci-demos.git
+$ git clone https://github.com/prwitt/aci-demos.git
 ```
 
 Make sure you have helm installed and initialize this
