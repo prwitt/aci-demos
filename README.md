@@ -15,7 +15,7 @@ $ az group create --name myResourceGroup --location westus2
 
 deploy aks kub cluster
 ```
-$ az aks create --resource-group myResourceGroup --name myK8sCluster --agent-count 1 --generate-ssh-keys
+$ az aks create --resource-group myResourceGroup --name myK8sCluster --node-count 1 --generate-ssh-keys
 
 ```
 
